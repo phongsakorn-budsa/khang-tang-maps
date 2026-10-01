@@ -104,6 +104,6 @@ wayside_edit/
 ├── view_shop.php       # หน้าแสดงรายละเอียดของร้านค้านั้นๆ
 ```
 👨‍💻 ผู้พัฒนา
-   - ชื่อ-นามสกุล: นายพงศกร บุษษะ, นางสาวอมินตา รุ่งเรือง  
-   - Email: phongsakorn.budsa@gmail.com, aminta.rungruang@gmail.com
-   - GitHub: https://github.com/phongsakorn-budsa, https://github.com/amintarungruang/
+   - ชื่อ-นามสกุล: นายพงศกร บุษษะ
+   - Email: phongsakorn.budsa@gmail.com
+   - GitHub: https://github.com/phongsakorn-budsa
