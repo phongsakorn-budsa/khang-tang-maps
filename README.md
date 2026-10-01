@@ -73,7 +73,7 @@ $db = "ชื่อฐานข้อมูลของคุณ";
 ```
 
 **ตั้งค่าการส่งอีเมล (OTP สำหรับลืมรหัสผ่าน):**
-เปลี่ยนชื่อไฟล์ `config/mail.example.php` เป็น `config/mail.php` แล้วเข้าไปกรอกอีเมลและ App Password ของคุณ (รหัสผ่านนี้จะไม่ถูกนำขึ้น Git):
+เปลี่ยนชื่อไฟล์ `config/mail.example.php` เป็น `config/mail.php` แล้วเข้าไปกรอกอีเมลและ App Password ของคุณ:
 ```php
 define('SMTP_USERNAME', 'your_email@gmail.com');
 define('SMTP_PASSWORD', 'your_app_password_here');
